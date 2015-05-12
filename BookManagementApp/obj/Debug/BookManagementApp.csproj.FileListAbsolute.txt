@@ -1,0 +1,22 @@
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\bin\Debug\BookManagementApp.exe.config
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.csprojResolveAssemblyReference.cache
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.BookManagementUI.resources
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.Properties.Resources.resources
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.UI.CategoryEntryUI.resources
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.UI.MainUI.resources
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.csproj.GenerateResource.Cache
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\bin\Debug\BookManagementApp.exe
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\bin\Debug\BookManagementApp.pdb
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.exe
+D:\C#.NET Applications\BITM\Layer Architecture Practice\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.pdb
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\bin\Debug\BookManagementApp.exe.config
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.exe
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.pdb
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\bin\Debug\BookManagementApp.exe
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\bin\Debug\BookManagementApp.pdb
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.csprojResolveAssemblyReference.cache
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.BookManagementUI.resources
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.Properties.Resources.resources
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.UI.CategoryEntryUI.resources
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.UI.MainUI.resources
+E:\Foysal Projects\My Projects\BookManagementApp\BookManagementApp\obj\Debug\BookManagementApp.csproj.GenerateResource.Cache
